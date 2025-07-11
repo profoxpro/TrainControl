@@ -10,7 +10,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Objects;
 import org.traincontrol.base.Accessory;
-import org.traincontrol.marklin.udp.CS2Message;
+import org.traincontrol.marklin.network.CS2Message;
 import org.traincontrol.util.Conversion;
 import org.traincontrol.base.Locomotive;
 import org.traincontrol.base.RemoteDevice;

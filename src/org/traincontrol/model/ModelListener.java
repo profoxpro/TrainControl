@@ -1,6 +1,6 @@
 package org.traincontrol.model;
 
-import org.traincontrol.marklin.udp.CS2Message;
+import org.traincontrol.marklin.network.CS2Message;
 
 /**
  * Required model functionality interface

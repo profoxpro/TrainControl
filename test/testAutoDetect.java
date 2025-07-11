@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import org.traincontrol.marklin.MarklinControlStation;
 import org.traincontrol.marklin.MarklinLocomotive;
-import org.traincontrol.marklin.udp.CSDetect;
+import org.traincontrol.marklin.network.CSDetect;
 import static org.testng.Assert.*;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.AfterMethod;

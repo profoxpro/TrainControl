@@ -7,7 +7,7 @@ import java.util.Set;
 import org.traincontrol.base.Accessory;
 import org.traincontrol.base.RemoteDevice;
 import org.traincontrol.gui.LayoutLabel;
-import org.traincontrol.marklin.udp.CS2Message;
+import org.traincontrol.marklin.network.CS2Message;
 import org.traincontrol.util.Conversion;
 
 /**
